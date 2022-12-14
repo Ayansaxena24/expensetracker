@@ -1,0 +1,17 @@
+{
+  "short_name": "EXPENSE TRACKER",
+  "name": "EXPENSE TRACKER",
+  "icons":
+    {
+      "src": "logo.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    "permissions": [],
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "EXPENSE TRACKER"
+  }
+}
